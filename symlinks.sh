@@ -52,3 +52,6 @@ for file in $files; do
     echo "Creating symlink to $file in home directory."
     echo ln -s $dir/$file ~/.$file
 done
+
+# vim colors should be a copy ?
+
