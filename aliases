@@ -9,4 +9,4 @@ alias gt='git tag'
 alias gsl='git stash list'
 alias gss='git stash save'
 
-alias ducks='du -hcks * | sort -rn|head -11' # Renvoie la liste des répertoires avec leur taille
+alias ducks='du -Hcks * | sort -rn|head -11' # Renvoie la liste des répertoires avec leur taille
