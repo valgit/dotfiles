@@ -1,6 +1,6 @@
 " Use the Solarized Dark theme
 set background=dark
-colorscheme solarized
+" colorscheme solarized
 let g:solarized_termtrans=1
 
 if has('gui_running')
