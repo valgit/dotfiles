@@ -175,3 +175,17 @@ linux-*.deb
 *.sw?
 *.vi
 
+### IDE/Editor configs
+.idea
+# Eclipse
+.project
+.pydevproject
+.settings/
+# Vim
+.ropeproject
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# local virtualenv
+.venv
